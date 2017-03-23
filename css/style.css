@@ -1,0 +1,162 @@
+
+
+
+
+.topbar {
+	width: 100%;
+	height: 200px;
+	background-color: #dbc64e;
+	font-size: 100px;
+	text-align: center;
+	font-family: 'Kaushan Script', cursive;
+	color: #4d0048;
+	padding-top: 50px;
+}
+
+
+
+
+
+.navbar {
+	width: 100%;
+	height: 50px;
+	background-color: black;
+	font-size: 1.75rem;
+	text-align: center;
+	font-family: 'Istok Web', sans-serif;	
+}
+
+
+li {
+	display: inline;
+}
+
+.container {
+	width: 100%;
+	height: 100%;
+	background-color: #80713a;
+}
+
+.boxone {
+	width: 80%;
+	height: 60%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 10%;
+	background-image: url(https://3.bp.blogspot.com/-FZciO0f1EWo/WLhEZmFvCWI/AAAAAAAAApE/jGki3Se1QWYjlWnPdu-uTDBRwQk8Vw_HgCLcB/s1600/projonetitle.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	}
+
+.boxtwo {
+	width: 80%;
+	height: 60%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	background-image: url(https://4.bp.blogspot.com/-QV16cZOa4pA/WLhF4qcujAI/AAAAAAAAApM/UpAkKPpqRpICM3Mt5rbSj7HkDVrtmixSACLcB/s1600/projtwotitle.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.boxthree {
+	width: 80%;
+	height: 60%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	background-image: url(https://4.bp.blogspot.com/-EuU6bVNk7eI/WLhH3aQi_NI/AAAAAAAAApU/vEGLBb-rhgUikLo507TyMFg_y6in4ZzxQCLcB/s1600/models.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+
+
+.body {
+	background-color: #80713a;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 750px) {
+	.topbar {
+	width: 100%;
+	height: 200px;
+	background-color: #dbc64e;
+	font-size: 100px;
+	text-align: center;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+.navbar {
+	width: 100%;
+	height: 50px;
+	background-color: black;
+	font-size: 3rem;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	height: 100%;
+	background-color: #80713a;
+}
+
+.boxone{
+	width: 40%;
+	height: 80%;
+	background-color: black;
+	margin-left: 5%;
+	margin-top: 5%;
+}
+
+.boxtwo {
+	width: 40%;
+	height: 80%;
+	background-color: black;
+	margin-right: 5%;
+	margin-top: 5%;
+}
+
+.boxthree {
+	width: 40%;
+	height: 80%;
+	background-color: black;
+	margin-left: 30%;
+	margin-top: 5%;
+}
+
+
+
+
+
+.body {
+	background-color: #80713a;
+}
+}
