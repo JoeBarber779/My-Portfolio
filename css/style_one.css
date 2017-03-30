@@ -25,9 +25,6 @@
 	text-align: center;
 }
 
-
-
-
 li {
 	display: inline;
 }
@@ -48,7 +45,7 @@ li {
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: center;
-	}
+}
 
 .boxtwo {
 	width: 80%;
@@ -86,7 +83,7 @@ li {
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: center;
-	}
+}
 
 .boxfive {
 	width: 80%;
@@ -98,7 +95,7 @@ li {
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: center;
-	}
+}
 
 .boxsix {
 	width: 80%;
@@ -110,9 +107,9 @@ li {
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: center;
-	}
+}
 
-	.boxseven {
+.boxseven {
 	width: 80%;
 	height: 60%;
 	background-color: black;
@@ -122,7 +119,7 @@ li {
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: center;
-	}
+}
 
 .boxeight {
 	width: 80%;
@@ -134,9 +131,9 @@ li {
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: center;
-	}
+}
 
-	.boxnine {
+.boxnine {
 	width: 80%;
 	height: 60%;
 	background-color: black;
@@ -146,34 +143,16 @@ li {
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: center;
-	}
-
-
-
-
-
+}
 
 img {
 	max-width: 100%;
 	height: auto;
 }
 
-
-
 .body {
 	background-color: #80713a;
 }
-
-
-
-
-
-
-
-
-
-
-
 
 @media (min-width: 750px) {
 	.topbar {
@@ -242,7 +221,7 @@ img {
 	background-color: black;
 	margin-left: 10%;
 	margin-top: 0%;
-}
+}	
 
 .boxsix {
 	width: 20%;
@@ -276,9 +255,6 @@ img {
 	margin-top: 10%;
 }
 
-
-
 .body {
 	background-color: #80713a;
-}
 }

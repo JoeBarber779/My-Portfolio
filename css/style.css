@@ -1,7 +1,3 @@
-
-
-
-
 .topbar {
 	width: 100%;
 	height: 200px;
@@ -13,10 +9,6 @@
 	padding-top: 50px;
 }
 
-
-
-
-
 .navbar {
 	width: 100%;
 	height: 50px;
@@ -25,7 +17,6 @@
 	text-align: center;
 	font-family: 'Istok Web', sans-serif;	
 }
-
 
 li {
 	display: inline;
@@ -47,7 +38,7 @@ li {
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: center;
-	}
+}
 
 .boxtwo {
 	width: 80%;
@@ -75,29 +66,14 @@ li {
 	background-position: center;
 }
 
-
-
 img {
 	max-width: 100%;
 	height: auto;
 }
 
-
-
 .body {
 	background-color: #80713a;
 }
-
-
-
-
-
-
-
-
-
-
-
 
 @media (min-width: 750px) {
 	.topbar {
@@ -152,11 +128,6 @@ img {
 	margin-top: 5%;
 }
 
-
-
-
-
 .body {
 	background-color: #80713a;
-}
 }
